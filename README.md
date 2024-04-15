@@ -38,4 +38,3 @@ The checkCollision function detects collisions with walls or itself. If a collis
 
 This snake game project demonstrates the use of HTML, CSS, and JavaScript to create an interactive and engaging game. Enjoy playing!
 
-[![Top Language](https://img.shields.io/github/languages/top/Hafsajillani/snakegame)](https://github.com/Hafsajillani/snakegame)
