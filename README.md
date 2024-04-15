@@ -37,3 +37,4 @@ The checkCollision function detects collisions with walls or itself. If a collis
 - **CSS Styling:** The CSS styles define the visual appearance of these elements, including colors, borders, fonts, and positioning.
 
 This snake game project demonstrates the use of HTML, CSS, and JavaScript to create an interactive and engaging game. Enjoy playing!
+
